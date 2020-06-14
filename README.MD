@@ -13,5 +13,5 @@ descriptor's linear address starts from _0xB8000_ (Video Memory)
 second descriptor's memory
 5. Observe text on display
 
-####Demo
+#### Demo
 ![](doc/demo.gif)
